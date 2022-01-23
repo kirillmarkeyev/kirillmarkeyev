@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirill!</h1>
-<h2>I'm studying JavaScript at Hexlet online school.</h2>
+<h3>I'm studying JavaScript at Hexlet online school.</h3>
 
-- 👨‍💻 All my projects are available at: [https://github.com/kirillmarkeyev](https://github.com/kirillmarkeyev)
+- 👨‍💻 All my projects are available in my GitHub account: [https://github.com/kirillmarkeyev](https://github.com/kirillmarkeyev)
 
 - 📫 E-mail me: **kirillmarkeyev@mail.ru**
 
