@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kirill!</h1>
 <h2>I'm studying JavaScript at Hexlet online school.</h2>
-<br>
 
 - 👨‍💻 All my projects are available at: [https://github.com/kirillmarkeyev](https://github.com/kirillmarkeyev)
 
 - 📫 E-mail me: **kirillmarkeyev@mail.ru**
-<br><br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kirillmarkeyev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirillmarkeyev" height="30" width="40" /></a>
@@ -13,7 +12,7 @@
 <a href="https://instagram.com/kirill_markeyev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirill_markeyev" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/kirillmarkeyev" target="_blank"><img align="center" src="https://www.codewars.com/users/kirillmarkeyev/badges/small" alt="codewars profile" /></a>
 </p>
-<br><br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
