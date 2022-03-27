@@ -12,7 +12,7 @@
 
 <h3>I'm studying JavaScript and Frontend at Hexlet online school.</h3>
 
-- 👨‍💻 All my pet-projects are available here, in my GitHub account: [https://github.com/kirillmarkeyev](https://github.com/kirillmarkeyev)
+- 👨‍💻 All my pet-projects are available here 👉 in my GitHub account: [https://github.com/kirillmarkeyev](https://github.com/kirillmarkeyev)
   
 - 🎓 Visit my Hexlet profile: [https://ru.hexlet.io/u/kirillmarkeyev](https://ru.hexlet.io/u/kirillmarkeyev)  
 
