@@ -14,7 +14,7 @@
 
 - 👨‍💻 All my pet-projects are available here, in my GitHub account: [https://github.com/kirillmarkeyev](https://github.com/kirillmarkeyev)
   
-- 👨‍💻 Visit my Hexlet profile: [https://ru.hexlet.io/u/kirillmarkeyev](https://ru.hexlet.io/u/kirillmarkeyev)  
+- 🎓 Visit my Hexlet profile: [https://ru.hexlet.io/u/kirillmarkeyev](https://ru.hexlet.io/u/kirillmarkeyev)  
 
 - 📫 E-mail me: **kirillmarkeyev@mail.ru**
   
