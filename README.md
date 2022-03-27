@@ -3,6 +3,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Kirill!</h1>
+
+<div align ="center">
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kirillmarkeyev)
+
+</div>
+
 <h3>I'm studying JavaScript and Frontend at Hexlet online school.</h3>
 
 - 👨‍💻 All my pet-projects are available here, in my GitHub account: [https://github.com/kirillmarkeyev](https://github.com/kirillmarkeyev)
@@ -10,7 +17,7 @@
 - 👨‍💻 Visit my Hexlet profile: [https://ru.hexlet.io/u/kirillmarkeyev](https://ru.hexlet.io/u/kirillmarkeyev)  
 
 - 📫 E-mail me: **kirillmarkeyev@mail.ru**
-
+  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -24,6 +31,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 </p>
 
-
 <h3 align="left">My stats:</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillmarkeyev)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillmarkeyev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
