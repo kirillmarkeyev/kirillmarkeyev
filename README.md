@@ -16,7 +16,7 @@
   
 - 🎓 Visit my Hexlet profile: [https://ru.hexlet.io/u/kirillmarkeyev](https://ru.hexlet.io/u/kirillmarkeyev)  
 
-- 📫 E-mail me: **kirillmarkeyev@mail.ru**
+- 📫 My CV: [https://cv.hexlet.io/resumes/865](https://cv.hexlet.io/resumes/865)
   
 
 <h3 align="left">Languages and Tools:</h3>
