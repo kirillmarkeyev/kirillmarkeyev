@@ -31,4 +31,6 @@
 
 <h3 align="left">My stats:</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillmarkeyev)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillmarkeyev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
