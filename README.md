@@ -7,7 +7,7 @@
 <div align ="center">
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kirillmarkeyev)
-[![Codewars Badge](https://www.codewars.com/users/kirillmarkeyev/badges/micro)](https://www.codewars.com/users/kirillmarkeyev/badges/micro)
+[![Codewars Badge](https://www.codewars.com/users/kirillmarkeyev/badges/micro)](https://www.codewars.com/users/kirillmarkeyev)
 
 </div>
 <h3>I've just graduated Hexlet school and now I'm looking for the new career opportunities as a Junior Frontend developer.</h3>
